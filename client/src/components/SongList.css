@@ -1,0 +1,11 @@
+.song-list {
+  padding: 20px;
+}
+.song-card {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  cursor: pointer;
+}
+.song-card:hover {
+  background-color: #f0f0f0;
+}
